@@ -1,4 +1,4 @@
-#A Twitter bot
+# A Twitter bot
 
 ## Could be utilized for different actions on twitter
 
