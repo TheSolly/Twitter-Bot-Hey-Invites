@@ -1,0 +1,10 @@
+{
+  "name": "TwitterBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Solly",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
